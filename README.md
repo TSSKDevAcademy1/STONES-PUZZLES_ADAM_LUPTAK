@@ -6,4 +6,6 @@ port of DB is 3305
 name root 
 pass deckaa
 
+!!!!!!!!!!!!! FOR RUN OPEN CMD and cd - destination of jar file and then java -jar PuzzlesConsoleAndGUI.jar!!!!!!!!!!!!!!!!!
+
 GAME console and gui interface
