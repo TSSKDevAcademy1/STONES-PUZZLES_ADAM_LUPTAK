@@ -1,0 +1,1 @@
+PRE Spustenie HRY java -jar PuzzlesConsoleAndGUI.jar
